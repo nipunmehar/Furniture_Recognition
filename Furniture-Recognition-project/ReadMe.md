@@ -23,3 +23,13 @@ ibmcloud account space-create computer-vision-app
 
 %%bash
 ibmcloud target -s computer-vision-app
+
+## Tools
+Python |
+Open CV |
+IBM Cloud |
+IBM Visual Recognition |
+Watson Studio
+
+
+### Follow me on GitHub For more and feel free to contact me at nipunmehar10@gmail.com .
