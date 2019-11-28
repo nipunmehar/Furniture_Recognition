@@ -6,23 +6,33 @@ access the Flask app via a webpage anywhere using a custom link.
 
 Enter the API Key and Classifier Key for Your Service  in config.py
 
-Execute Following commands
+Execute the following commands:
 
 %%bash
+
 ibmcloud config --check-version=false
+
 ibmcloud login --no-region
+
 cloud_emailid
+
 password
 
-%%bash
-ibmcloud account orgs
 
 %%bash
+
+ibmcloud account orgs
+
+
+%%bash
+
 ibmcloud target --cf-api https://api.eu-gb.cf.cloud.ibm.com -r eu-gb -o nipunmehar1234@gmail.com
+
 ibmcloud account space-create computer-vision-app
 
 
 %%bash
+
 ibmcloud target -s computer-vision-app
 
 ## Tools
