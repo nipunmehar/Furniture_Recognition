@@ -6,5 +6,5 @@ class Config(object):
     DEBUG = False
     
     # Enter your API Key and Custom Classifier ID below
-    API_KEY = "18pWdvmGn6s94t7iBYT9C54x3ztNo47dKij7TjsRBpyW"
+    API_KEY = ""
     CLASSIFIER_ID = ""
