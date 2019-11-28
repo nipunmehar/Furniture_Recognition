@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Furniture-Recognition
+   random-random: true
+   memory: 128M
