@@ -5,6 +5,7 @@ I am then going to deploy my Flask app to IBM Cloud. Once the app is deployed on
 access the Flask app via a webpage anywhere using a custom link.
 
 Enter the API Key and Classifier Key for Your Service  in config.py
+
 Execute Following commands
 
 %%bash
